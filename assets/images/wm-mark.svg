@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Whitemind Education">
+  <rect width="64" height="64" rx="15" fill="#0F1D33"/>
+  <text x="30" y="44" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-style="normal" fill="#F7F3EB" text-anchor="middle">W</text>
+  <circle cx="50" cy="45" r="4.5" fill="#C2913B"/>
+</svg>
