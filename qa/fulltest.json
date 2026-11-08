@@ -1,0 +1,624 @@
+{
+  "results": [
+    {
+      "vp": "1920",
+      "page": "index.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "1920",
+      "page": "about.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "1920",
+      "page": "videos.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "1920",
+      "page": "gallery.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "1920",
+      "page": "resources.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "1920",
+      "page": "contact.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "1440",
+      "page": "index.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "1440",
+      "page": "about.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "1440",
+      "page": "videos.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "1440",
+      "page": "gallery.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "1440",
+      "page": "resources.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "1440",
+      "page": "contact.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "1366",
+      "page": "index.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "1366",
+      "page": "about.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "1366",
+      "page": "videos.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "1366",
+      "page": "gallery.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "1366",
+      "page": "resources.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "1366",
+      "page": "contact.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "1280",
+      "page": "index.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "1280",
+      "page": "about.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "1280",
+      "page": "videos.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "1280",
+      "page": "gallery.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "1280",
+      "page": "resources.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "1280",
+      "page": "contact.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "768",
+      "page": "index.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "768",
+      "page": "about.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "768",
+      "page": "videos.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "768",
+      "page": "gallery.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "768",
+      "page": "resources.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "768",
+      "page": "contact.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "430",
+      "page": "index.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "430",
+      "page": "about.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "430",
+      "page": "videos.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "430",
+      "page": "gallery.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "430",
+      "page": "resources.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "430",
+      "page": "contact.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "390",
+      "page": "index.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "390",
+      "page": "about.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "390",
+      "page": "videos.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "390",
+      "page": "gallery.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "390",
+      "page": "resources.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "390",
+      "page": "contact.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "375",
+      "page": "index.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "375",
+      "page": "about.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "375",
+      "page": "videos.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "375",
+      "page": "gallery.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "375",
+      "page": "resources.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "375",
+      "page": "contact.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "360",
+      "page": "index.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "360",
+      "page": "about.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "360",
+      "page": "videos.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "360",
+      "page": "gallery.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "360",
+      "page": "resources.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    },
+    {
+      "vp": "360",
+      "page": "contact.html",
+      "errors": 0,
+      "overflow": 0,
+      "h1s": 1,
+      "current": 1,
+      "imgBad": 0,
+      "netBad": 0,
+      "detail": []
+    }
+  ],
+  "interactions": [
+    {
+      "name": "drawer open/close (mobile)",
+      "ok": true
+    },
+    {
+      "name": "video filter (videos page)",
+      "ok": true
+    },
+    {
+      "name": "youtube click-to-load plays (videos page)",
+      "ok": true
+    },
+    {
+      "name": "facebook embed chain (if FB cards present)",
+      "ok": true
+    },
+    {
+      "name": "gallery lightbox",
+      "ok": true
+    },
+    {
+      "name": "form validation + honest handoff",
+      "ok": true
+    }
+  ]
+}
