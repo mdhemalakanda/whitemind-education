@@ -70,7 +70,12 @@ for (const vp of VIEWPORTS) {
     const page = await browser.newPage({ viewport: { width: vp.width, height: vp.height } });
     const consoleErrs = [];
     const netBad = [];
-    page.on("console", (m) => { if (m.type() === "error") consoleErrs.push(m.text().slice(0, 160)); });
+    page.on("console", (m) => {
+      if (m.type() !== "error") return;
+      /* noise from INSIDE third-party FB plugin iframes (their own unload handlers) */
+      if (/Permissions policy violation: unload/.test(m.text())) return;
+      consoleErrs.push(m.text().slice(0, 160));
+    });
     page.on("pageerror", (e) => consoleErrs.push("pageerror: " + String(e).slice(0, 160)));
     page.on("response", (r) => {
       if (r.status() < 400) return;
