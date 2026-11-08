@@ -118,10 +118,11 @@
 
   /* ---------------- facebook video cards ---------------- */
   function fbCardHtml(v) {
+    var auto = !v.thumb; /* no retrievable thumbnail → render the official player inline */
     return '<article class="vcard" data-aos="fade-up">' +
-      '<div class="fb-frame' + (v.thumb ? "" : " no-thumb") + '" data-fb-url="' + esc(v.url) + '">' +
+      '<div class="fb-frame' + (auto ? " auto" : "") + '" data-fb-url="' + esc(v.url) + '"' + (auto ? ' data-auto="1"' : "") + ">" +
       (v.thumb ? '<img src="' + esc(v.thumb) + '" alt="' + esc(v.t) + '" loading="lazy" referrerpolicy="no-referrer">' : "") +
-      '<button type="button" class="fb-open" aria-label="Play Facebook video: ' + esc(v.t) + '"></button>' +
+      (auto ? "" : '<button type="button" class="fb-open" aria-label="Play Facebook video: ' + esc(v.t) + '"></button>') +
       "</div>" +
       '<div class="vc-body"><h3>' + esc(v.t) + "</h3>" +
       '<div class="vc-meta"><span>' + esc(v.date || "") + "</span></div>" +
@@ -135,6 +136,13 @@
       var img = frame.querySelector("img");
       if (img) {
         img.onerror = function () { img.remove(); frame.classList.add("no-thumb"); };
+      }
+      /* thumbless cards: render the official player right away — its poster IS the imagery */
+      if (frame.getAttribute("data-auto") === "1") {
+        frame.classList.remove("no-thumb");
+        var w = Math.max(320, Math.floor(frame.clientWidth || 560));
+        frame.innerHTML = WM_FB.platformEmbedHtml(url, w);
+        return;
       }
       var btn = frame.querySelector(".fb-open");
       if (!btn) return;
