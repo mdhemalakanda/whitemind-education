@@ -166,16 +166,14 @@ await interact("youtube click-to-load plays (videos page)", async (p) => {
   });
 });
 
-await interact("facebook embed chain (if FB cards present)", async (p) => {
+await interact("facebook embeds render inline (if FB cards present)", async (p) => {
   await p.goto(`http://localhost:${PORT}/videos.html`, { waitUntil: "load" });
-  await p.waitForTimeout(800);
-  const btn = await p.$(".fb-frame .fb-open");
-  if (!btn) return "no-fb-cards";
-  await btn.click();
   await p.waitForTimeout(2500);
   return p.evaluate(() => {
-    const f = document.querySelector(".fb-frame iframe");
-    return !!f && /facebook\.com/.test(f.src);
+    const frames = document.querySelectorAll(".fb-frame");
+    if (!frames.length) return "no-fb-cards";
+    const iframes = document.querySelectorAll(".fb-frame iframe");
+    return iframes.length === frames.length && Array.from(iframes).every((f) => /facebook\.com\/plugins\//.test(f.src));
   });
 });
 
